@@ -2,7 +2,7 @@
 
 Andrés Hernández
 
-+ Instalar chrome open source en @Debian 8
++ Instalar chrome open source en @Debian 8 UBUNTU
 + Instalar Internet explorer POR FAVOR!!! jajaaj (ni en sueños)
 
 
