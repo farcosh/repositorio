@@ -1,11 +1,10 @@
 # Mi repositorio de git
 
-Andrés Hernández
+Este repositorio se creo para trabajar con el cliente de git utilizando la linea de comandos y algunas interfaces graficas
 
-+ Instalar chrome open source en @Debian 8 version JESSIE
-+ Instalar Internet explorer POR FAVOR!!! jajaaj (ni en sueños)
+Este proyecto esta hospedado en github
 
+equipo
+------
 
-```
-# apt-get install chromium
-```
++ Andres Hernandez
