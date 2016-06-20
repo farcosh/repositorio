@@ -11,4 +11,4 @@ Me gusta la birria
 
 **Hobbies
 
-Bailo tango, me gusta jugar videojuegos y leer
+Bailo tango, me gusta jugar videojuegos, aprender y leer
